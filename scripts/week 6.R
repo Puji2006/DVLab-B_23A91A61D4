@@ -6,6 +6,7 @@ data(diamonds)
 str(diamonds)
 dim(diamonds)
 ?diamonds
+View(diamonds)
 
 #Very Basic Scatter
 plot(diamonds$carat,diamonds$price)
